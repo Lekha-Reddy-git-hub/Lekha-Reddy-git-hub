@@ -4,8 +4,6 @@ I get excited about problems that sit at the intersection of messy operations an
 
 Here's what I've been building:
 
-- **m402**: A machine-native payment protocol on Tempo. HTTP 402 "Payment Required" has been a placeholder since 1992. This is what happens when you actually build it for machines talking to machines.
+- **m402**: A machine-native payment protocol built on Tempo for machine-native payments on physical-world data networks. Live demo: m402.vercel.app
 
 - **anova**: An AI-powered FP&A variance analyzer. Because nobody should spend 4 hours in Excel figuring out why Q3 revenue is off by 12%. You upload your actuals vs. budget, it tells you what moved and why.
-
-- **Spatial computing for CAD**: Research prototypes using Halo smart glasses to manipulate 3D designs with gesture and gaze. In progress.
