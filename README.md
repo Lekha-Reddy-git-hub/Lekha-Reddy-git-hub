@@ -4,6 +4,7 @@ I get excited about problems that sit at the intersection of messy operations an
 
 Here's what I've been building:
 
-- **m402**: A machine-native payment protocol built on Tempo for machine-native payments on physical-world data networks. Live demo: m402.vercel.app
+- **m402**: A machine-native payment protocol built on Tempo for machine-native payments on physical-world data networks. 
+Live demo: m402.vercel.app
 
 - **anova**: An AI-powered FP&A variance analyzer. Because nobody should spend 4 hours in Excel figuring out why Q3 revenue is off by 12%. You upload your actuals vs. budget, it tells you what moved and why.
